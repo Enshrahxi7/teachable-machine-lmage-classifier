@@ -24,4 +24,4 @@ keras_model.h5
  # 4- Run the Prediction Code 
  # 5- Output 
  The model successfully processed ![Test2](Test2.jpg)
-  ![Screenshot(3)](Screenshot(3).png) and predicted its class.
+ ![Screenshot(3)](Screenshot(3).png) and predicted its class.

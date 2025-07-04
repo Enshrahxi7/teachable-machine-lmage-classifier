@@ -1,0 +1,2 @@
+0 strawberry
+1 mango

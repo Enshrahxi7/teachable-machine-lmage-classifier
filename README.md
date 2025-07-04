@@ -23,4 +23,5 @@ keras_model.h5
  !pip install tensorflow==2.12.1
  # 4- Run the Prediction Code 
  # 5- Output 
- The model successfully processed ![Test](Test.jpg) and ![Screenshot(3)](Screenshot(3).png) and predicted its class.
+ The model successfully processed ![Test2](Test2.jpg)
+  ![Screenshot(3)](Screenshot(3).png) and predicted its class.
